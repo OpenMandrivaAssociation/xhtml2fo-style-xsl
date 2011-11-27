@@ -1,6 +1,6 @@
 Name: xhtml2fo-style-xsl
 Version: 20051222
-Release: 5
+Release: 7
 Group: Text tools
 
 Summary: Antenna House, Inc. XHTML to XSL:FO stylesheets

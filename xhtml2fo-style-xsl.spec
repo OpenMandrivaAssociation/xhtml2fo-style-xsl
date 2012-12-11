@@ -64,3 +64,11 @@ if [ "$1" = 0 ]; then
 fi
 
 
+
+
+%changelog
+* Sun Nov 27 2011 Guilherme Moro <guilherme@mandriva.com> 20051222-7
++ Revision: 734300
+- rebuild
+- imported package xhtml2fo-style-xsl
+

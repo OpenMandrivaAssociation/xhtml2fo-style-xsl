@@ -1,7 +1,7 @@
 Name: xhtml2fo-style-xsl
 Version: 20051222
-Release: 7
-Group: Text tools
+Release: 9%{?dist}
+
 
 Summary: Antenna House, Inc. XHTML to XSL:FO stylesheets
 License: Copyright only
@@ -62,13 +62,3 @@ if [ "$1" = 0 ]; then
   %{_bindir}/xmlcatalog --noout --del \
   "file://%{_datadir}/sgml/xhtml1/xhtml2fo-stylesheets/xhtml2fo.xsl" $CATALOG
 fi
-
-
-
-
-%changelog
-* Sun Nov 27 2011 Guilherme Moro <guilherme@mandriva.com> 20051222-7
-+ Revision: 734300
-- rebuild
-- imported package xhtml2fo-style-xsl
-

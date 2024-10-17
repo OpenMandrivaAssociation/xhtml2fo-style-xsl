@@ -4,7 +4,7 @@ Release: 19%{?dist}
 
 Summary: Antenna House, Inc. XHTML to XSL:FO stylesheets
 License: Copyright only
-URL: http://www.antennahouse.com/XSLsample/XSLsample.htm
+URL: https://www.antennahouse.com/XSLsample/XSLsample.htm
 
 Requires: xhtml1-dtds
 Requires: xml-common >= 0.6.3-8
